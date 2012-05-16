@@ -1,5 +1,5 @@
-git command
-===========
+git commands
+============
 **Hello github!!**
   
 For new repo:                                           
