@@ -12,13 +12,7 @@ For new repo:
     * git push -u origin master                               
 
 Common commands:
-    * git commit -a
-    * git push
     * git add *file_name*.rst
-    * git commit -a
-    * git push
     * git rm *file_name*.rst
     * git commit -a
     * git push
-
-
