@@ -1,24 +1,24 @@
-Test
-====
-**Hello github!i**
+git command
+===========
+**Hello github!!**
+  
+For new repo:                                           
+    * mkdir *folder_name*
+    * git init                                                
+    * vim README.rst                                          
+    * git add README.rst                                      
+    * git commit                                              
+    * git remote add origin git@github.com:shchen/*repo_name*.git  
+    * git push -u origin master                               
 
-* Some basic command:
-* For new repo:                                           
-* git init                                                
-* vim README.rst                                          
-* git add README.rst                                      
-* git commit                                              
-* git remote add origin git@github.com:shchen/public.git  
-* git push -u origin master                               
-* 
-* vim README.rst 
-* git commit -a
-* git push
-* git add remove.rst
-* git commit -a
-* git push
-* git rm remove.rst
-* git commit -a
-* git push
+Common commands:
+    * git commit -a
+    * git push
+    * git add *file_name*.rst
+    * git commit -a
+    * git push
+    * git rm *file_name*.rst
+    * git commit -a
+    * git push
 
 
