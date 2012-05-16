@@ -3,13 +3,20 @@ Test
 * Hello github!
 
 * Some basic command:
-* For new repo:
-* git init
-* vim README.rst
-* git add README.rst
-* git commit
-* git remote add origin git@github.com:shchen/public.git
-* git push -u origin master
++----------------------------------------------------------+
+|  For new repo:                                           |
+|  git init                                                |
+|  vim README.rst                                          |
+|  git add README.rst                                      |
+|  git commit                                              |
+|  git remote add origin git@github.com:shchen/public.git  |
+|  git push -u origin master                               |
++----------------------------------------------------------+
+
++------------------------------+
+| paragraph                    |
+|                              |
++------------------------------+
 * 
 * vim README.rst 
 * git commit -a
