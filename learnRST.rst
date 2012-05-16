@@ -45,4 +45,6 @@ Simple tables
     C   D
     === ===
 
+**THE END**
+
 ..  .. [#f1] reStructuredText Primer
