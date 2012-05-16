@@ -1,7 +1,8 @@
 reStructuredText Practice
 =========================
 Examples are from http://sphinx.pocoo.org/rest.html.
-.. Add footnote => [#f1]_http://sphinx.pocoo.org/rest.html
+
+..  Add footnote => [#f1]_http://sphinx.pocoo.org/rest.html
 
 * This is a bulleted list.
 
