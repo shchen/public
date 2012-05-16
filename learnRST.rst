@@ -1,6 +1,6 @@
 reStructuredText Practice
 =========================
-Examples are from http://sphinx.pocoo.org/rest.html.
+Examples are from `http://sphinx.pocoo.org/rest.html`_.
 
 * This is a bulleted list.
 
@@ -15,7 +15,7 @@ Nested list
 
     * and here the parent list continues
 
-Preserving line breaks::
+Preserving line breaks:
     | These lines are
     | broken exactly like in
     | the source file.
@@ -28,5 +28,19 @@ Source Code
         it can be spanned multiple lines.
 
     This is a normal text paragraph again.
+
+Tables
+    +----------+----------+
+    | Header 1 | Header 2 |
+    +----------+----------+
+    |  github  | facebook |
+    +----------+----------+
+
+Simple tables
+    === ===
+    A   B
+    === ===
+    C   D
+    === ===
 
 
