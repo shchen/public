@@ -1,6 +1,6 @@
 reStructuredText Practice
 =========================
-Examples are from [#f1]_http://sphinx.pocoo.org/rest.html.
+Examples are from [#f1]_http://sphinx.pocoo.org/rest.html....
 
 * This is a bulleted list.
 
