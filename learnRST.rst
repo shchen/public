@@ -43,9 +43,6 @@ Simple tables
     C   D
     === ===
 
-Sections
-    =================
-    This is a heading
-    =================
-
+Image
+    .. image:: Dirichlet_distributions.png
 
