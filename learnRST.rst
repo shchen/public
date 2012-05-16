@@ -48,5 +48,4 @@ Sections
     This is a heading
     =================
 
-Images
-    .. image:: Dirichlet_distributions.png
+
