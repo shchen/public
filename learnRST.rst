@@ -1,6 +1,6 @@
 reStructuredText Practice
 =========================
-Examples are from http://sphinx.pocoo.org/rest.html.
+Examples are from [#f1]_http://sphinx.pocoo.org/rest.html.
 
 * This is a bulleted list.
 
@@ -43,6 +43,4 @@ Simple tables
     C   D
     === ===
 
-Image
-    .. image:: Dirichlet_distributions.png
-
+.. [#f1] reStructuredText Primer
