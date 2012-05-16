@@ -1,3 +1,3 @@
 reStructuredText Practice
 =========================
-`Design Patterns` [GoF95]_ is an excellent read.
+Examples are from [Ref]_http://sphinx.pocoo.org/rest.html.
